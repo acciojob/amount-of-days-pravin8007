@@ -8,8 +8,7 @@ function daysOfAYear(year) {
     return isLeapYear ? 366 : 365;
 }
 
-// Examples
-console.log(daysOfAYear(2022));  // Output: 365
-console.log(daysOfAYear(2024));  // Output: 366
-console.log(daysOfAYear(1900));  // Output: 365
-console.log(daysOfAYear(2000));  // Output: 366
+
+console.log(alert((daysOfAYear(prompt()))));  // Output: 365
+
+
