@@ -9,7 +9,7 @@ function daysOfAYear(year) {
 }
 
 
-console.log(alert((daysOfAYear(prompt()))));  // Output: 365
+alert(daysOfAYear(prompt()));  // Output: 365
 
 
 
