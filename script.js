@@ -6,6 +6,7 @@ function daysOfAYear(year) {
 
     // Return the number of days based on leap year or not
     return isLeapYear ? 366 : 365;
+
 }
 
 
